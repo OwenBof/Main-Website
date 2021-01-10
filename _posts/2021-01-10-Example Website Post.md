@@ -5,7 +5,7 @@ subheading: This is an example.
 author: Jeffrey
 categories: jekyll
 banner: https://bit.ly/32PAjtM
-tags: jekyll theme yat
+tags: 
 sidebar: []
 ---
 
