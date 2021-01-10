@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Example post!
+title: Example Post!
 subheading: This is an example.
 author: Jeffrey
 categories: jekyll
